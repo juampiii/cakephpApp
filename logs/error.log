@@ -1,0 +1,1144 @@
+2016-04-18 09:54:44 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 09:54:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:00:50 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:02:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesors
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:02:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:02:54 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/asignaturas
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:03:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/asignatura
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:05:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/asignatura
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:05:07 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/asignatura
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:05:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/asignatura
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:05:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/asignatura
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:05:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:27:18 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:27:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:27:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:28:29 Error: [Cake\Controller\Exception\MissingActionException] Action CakephpappController::profesor() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'CakephpappController',
+  'action' => 'profesor',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\CakephpappController))
+#2 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2016-04-18 10:29:23 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:36:50 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:36:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 10:36:55 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 11:04:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/index
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 11:04:58 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 11:04:58 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 11:10:07 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/src/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 11:18:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/src/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 11:18:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/src/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 11:18:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 11:19:35 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 11:19:37 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 11:21:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 11:21:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 11:21:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 11:27:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 11:27:23 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:01:49 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:01:50 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:01:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:01:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:02:40 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:02:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:02:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:05:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:05:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:05:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:05:25 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:05:25 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:05:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:05:43 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:05:43 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:05:56 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:09:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class CakePhpapp could not be found.
+Exception Attributes: array (
+  'class' => 'CakePhpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakePhpapp/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:09:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class CakePhpapp could not be found.
+Exception Attributes: array (
+  'class' => 'CakePhpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakePhpapp/profesores
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:09:27 Error: [Cake\Routing\Exception\MissingControllerException] Controller class CakePhpapp could not be found.
+Exception Attributes: array (
+  'class' => 'CakePhpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakePhpapp/profesors
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:09:32 Error: [Cake\Routing\Exception\MissingControllerException] Controller class CakePhpapp could not be found.
+Exception Attributes: array (
+  'class' => 'CakePhpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakePhpapp/profesor
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:10:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class CakePhpapp could not be found.
+Exception Attributes: array (
+  'class' => 'CakePhpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakePhpapp/AppController
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:11:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class CakePhpapp could not be found.
+Exception Attributes: array (
+  'class' => 'CakePhpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakePhpapp/AppControllers
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:12:55 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:12:56 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:12:57 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Cakephpapp could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephpapp',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cakephpApp/cakephpapp/profesor/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-18 12:15:11 Error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "profesor" with primary key [NULL]
+Request URL: /cakephpApp/cakephpapp/profesor/edit
+Referer URL: http://127.0.0.1/cakephpApp/cakephpapp/profesor?sort=DNI&direction=desc
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\src\Controller\ProfesorController.php(77): Cake\ORM\Table->get(Array, Array)
+#1 [internal function]: App\Controller\ProfesorController->edit()
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ProfesorController))
+#5 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2016-04-18 12:15:34 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ProfesorAsignatura.asignatura_id' in 'field list'
+Request URL: /cakephpApp/cakephpapp/profesor/view/77121212C
+Referer URL: http://127.0.0.1/cakephpApp/cakephpapp/profesor?sort=DNI&direction=desc
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php(36): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php(171): Cake\Database\Statement\MysqlStatement->execute(NULL)
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php(56): Cake\Database\Statement\StatementDecorator->execute(NULL)
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Connection.php(272): Cake\Database\Log\LoggingStatement->execute()
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Query.php(188): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#5 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Query.php(921): Cake\Database\Query->execute()
+#6 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(272): Cake\ORM\Query->_execute()
+#7 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Query.php(871): Cake\ORM\Query->_all()
+#8 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Association\BelongsToMany.php(420): Cake\ORM\Query->all()
+#9 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Association\SelectableAssociationTrait.php(47): Cake\ORM\Association\BelongsToMany->_buildResultMap(Object(Cake\ORM\Query), Array)
+#10 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\EagerLoader.php(584): Cake\ORM\Association\BelongsToMany->eagerLoader(Array)
+#11 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Query.php(921): Cake\ORM\EagerLoader->loadExternal(Object(Cake\ORM\Query), Object(Cake\Database\Statement\BufferedStatement))
+#12 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(272): Cake\ORM\Query->_execute()
+#13 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Query.php(871): Cake\ORM\Query->_all()
+#14 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(395): Cake\ORM\Query->all()
+#15 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(406): Cake\ORM\Query->first()
+#16 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1201): Cake\ORM\Query->firstOrFail()
+#17 C:\xampp\htdocs\cakephpApp\src\Controller\ProfesorController.php(38): Cake\ORM\Table->get(Array, Array)
+#18 [internal function]: App\Controller\ProfesorController->view('77121212C')
+#19 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#20 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#21 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ProfesorController))
+#22 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#23 {main}
+
+
+2016-04-18 12:15:42 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ProfesorAsignatura.asignatura_id' in 'field list'
+Request URL: /cakephpApp/cakephpapp/profesor/edit/77121212C
+Referer URL: http://127.0.0.1/cakephpApp/cakephpapp/profesor?sort=DNI&direction=desc
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php(36): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php(171): Cake\Database\Statement\MysqlStatement->execute(NULL)
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php(56): Cake\Database\Statement\StatementDecorator->execute(NULL)
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Connection.php(272): Cake\Database\Log\LoggingStatement->execute()
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Query.php(188): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#5 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Query.php(921): Cake\Database\Query->execute()
+#6 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(272): Cake\ORM\Query->_execute()
+#7 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Query.php(871): Cake\ORM\Query->_all()
+#8 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Association\BelongsToMany.php(420): Cake\ORM\Query->all()
+#9 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Association\SelectableAssociationTrait.php(47): Cake\ORM\Association\BelongsToMany->_buildResultMap(Object(Cake\ORM\Query), Array)
+#10 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\EagerLoader.php(584): Cake\ORM\Association\BelongsToMany->eagerLoader(Array)
+#11 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Query.php(921): Cake\ORM\EagerLoader->loadExternal(Object(Cake\ORM\Query), Object(Cake\Database\Statement\BufferedStatement))
+#12 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(272): Cake\ORM\Query->_execute()
+#13 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Query.php(871): Cake\ORM\Query->_all()
+#14 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(395): Cake\ORM\Query->all()
+#15 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(406): Cake\ORM\Query->first()
+#16 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1201): Cake\ORM\Query->firstOrFail()
+#17 C:\xampp\htdocs\cakephpApp\src\Controller\ProfesorController.php(77): Cake\ORM\Table->get(Array, Array)
+#18 [internal function]: App\Controller\ProfesorController->edit('77121212C')
+#19 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#20 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#21 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ProfesorController))
+#22 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#23 {main}
+
+
+2016-04-19 08:45:21 Error: [Cake\Routing\Exception\MissingRouteException] A route matching "/" could not be found.
+Exception Attributes: array (
+  'url' => '/',
+)
+Request URL: /cakephpApp/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Router.php(338): Cake\Routing\RouteCollection->parse('/')
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Filter\RoutingFilter.php(55): Cake\Routing\Router::parse('/')
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\DispatcherFilter.php(145): Cake\Routing\Filter\RoutingFilter->beforeDispatch(Object(Cake\Event\Event))
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventManager.php(390): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventManager.php(356): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#5 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#6 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#7 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-04-19 08:45:35 Error: [Cake\Routing\Exception\MissingRouteException] A route matching "/profesor" could not be found.
+Exception Attributes: array (
+  'url' => '/profesor',
+)
+Request URL: /cakephpApp/profesor
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Router.php(338): Cake\Routing\RouteCollection->parse('/profesor')
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Filter\RoutingFilter.php(55): Cake\Routing\Router::parse('/profesor')
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\DispatcherFilter.php(145): Cake\Routing\Filter\RoutingFilter->beforeDispatch(Object(Cake\Event\Event))
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventManager.php(390): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventManager.php(356): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#5 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#6 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#7 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-04-19 08:45:41 Error: [Cake\Routing\Exception\MissingRouteException] A route matching "/estudiante" could not be found.
+Exception Attributes: array (
+  'url' => '/estudiante',
+)
+Request URL: /cakephpApp/estudiante
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Router.php(338): Cake\Routing\RouteCollection->parse('/estudiante')
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Filter\RoutingFilter.php(55): Cake\Routing\Router::parse('/estudiante')
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\DispatcherFilter.php(145): Cake\Routing\Filter\RoutingFilter->beforeDispatch(Object(Cake\Event\Event))
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventManager.php(390): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventManager.php(356): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#5 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#6 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#7 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-04-19 08:45:53 Error: [Cake\Routing\Exception\MissingRouteException] A route matching "/titulacion" could not be found.
+Exception Attributes: array (
+  'url' => '/titulacion',
+)
+Request URL: /cakephpApp/titulacion
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Router.php(338): Cake\Routing\RouteCollection->parse('/titulacion')
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Filter\RoutingFilter.php(55): Cake\Routing\Router::parse('/titulacion')
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\DispatcherFilter.php(145): Cake\Routing\Filter\RoutingFilter->beforeDispatch(Object(Cake\Event\Event))
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventManager.php(390): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventManager.php(356): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#5 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#6 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#7 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-04-19 08:45:56 Error: [Cake\Routing\Exception\MissingRouteException] A route matching "/titulacion/" could not be found.
+Exception Attributes: array (
+  'url' => '/titulacion/',
+)
+Request URL: /cakephpApp/titulacion/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Router.php(338): Cake\Routing\RouteCollection->parse('/titulacion/')
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Filter\RoutingFilter.php(55): Cake\Routing\Router::parse('/titulacion/')
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\DispatcherFilter.php(145): Cake\Routing\Filter\RoutingFilter->beforeDispatch(Object(Cake\Event\Event))
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventManager.php(390): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventManager.php(356): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#5 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#6 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#7 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-04-19 08:46:08 Error: [Cake\Routing\Exception\MissingRouteException] A route matching "/" could not be found.
+Exception Attributes: array (
+  'url' => '/',
+)
+Request URL: /cakephpApp/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Router.php(338): Cake\Routing\RouteCollection->parse('/')
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Filter\RoutingFilter.php(55): Cake\Routing\Router::parse('/')
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\DispatcherFilter.php(145): Cake\Routing\Filter\RoutingFilter->beforeDispatch(Object(Cake\Event\Event))
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventManager.php(390): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventManager.php(356): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#5 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#6 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#7 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-04-19 08:46:12 Error: [Cake\Routing\Exception\MissingRouteException] A route matching "/" could not be found.
+Exception Attributes: array (
+  'url' => '/',
+)
+Request URL: /cakephpApp/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Router.php(338): Cake\Routing\RouteCollection->parse('/')
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Filter\RoutingFilter.php(55): Cake\Routing\Router::parse('/')
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\DispatcherFilter.php(145): Cake\Routing\Filter\RoutingFilter->beforeDispatch(Object(Cake\Event\Event))
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventManager.php(390): Cake\Routing\DispatcherFilter->handle(Object(Cake\Event\Event), Object(Cake\Network\Request), Object(Cake\Network\Response))
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventManager.php(356): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#5 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Event\EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#6 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(62): Cake\Routing\Dispatcher->dispatchEvent('Dispatcher.befo...', Array)
+#7 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-04-19 08:48:56 Error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "titulacion" with primary key [NULL]
+Request URL: /cakephpApp/titulacion/view
+Referer URL: http://127.0.0.1/cakephpApp/titulacion
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\src\Controller\TitulacionController.php(38): Cake\ORM\Table->get(Array, Array)
+#1 [internal function]: App\Controller\TitulacionController->view()
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\TitulacionController))
+#5 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2016-04-19 08:50:38 Error: [InvalidArgumentException] Unknown type ""
+Request URL: /cakephpApp/asignatura/add
+Referer URL: http://127.0.0.1/cakephpApp/asignatura/add
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1580): Cake\Database\Type::build(NULL)
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1513): Cake\ORM\Table->_newId(Array)
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1460): Cake\ORM\Table->_insert(Object(App\Model\Entity\Asignatura), Array)
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1391): Cake\ORM\Table->_processSave(Object(App\Model\Entity\Asignatura), Object(ArrayObject))
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Connection.php(559): Cake\ORM\Table->Cake\ORM\{closure}(Object(Cake\Database\Connection))
+#5 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1392): Cake\Database\Connection->transactional(Object(Closure))
+#6 C:\xampp\htdocs\cakephpApp\src\Controller\AsignaturaController.php(54): Cake\ORM\Table->save(Object(App\Model\Entity\Asignatura))
+#7 [internal function]: App\Controller\AsignaturaController->add()
+#8 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#9 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#10 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AsignaturaController))
+#11 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#12 {main}
+
+
+2016-04-19 08:51:16 Error: [InvalidArgumentException] Unknown type ""
+Request URL: /cakephpApp/asignatura/add
+Referer URL: http://127.0.0.1/cakephpApp/asignatura/add
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1580): Cake\Database\Type::build(NULL)
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1513): Cake\ORM\Table->_newId(Array)
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1460): Cake\ORM\Table->_insert(Object(App\Model\Entity\Asignatura), Array)
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1391): Cake\ORM\Table->_processSave(Object(App\Model\Entity\Asignatura), Object(ArrayObject))
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Connection.php(559): Cake\ORM\Table->Cake\ORM\{closure}(Object(Cake\Database\Connection))
+#5 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1392): Cake\Database\Connection->transactional(Object(Closure))
+#6 C:\xampp\htdocs\cakephpApp\src\Controller\AsignaturaController.php(54): Cake\ORM\Table->save(Object(App\Model\Entity\Asignatura))
+#7 [internal function]: App\Controller\AsignaturaController->add()
+#8 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#9 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#10 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AsignaturaController))
+#11 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#12 {main}
+
+
+2016-04-19 08:52:52 Error: [InvalidArgumentException] Unknown type ""
+Request URL: /cakephpApp/asignatura/add
+Referer URL: http://127.0.0.1/cakephpApp/asignatura/add
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1580): Cake\Database\Type::build(NULL)
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1513): Cake\ORM\Table->_newId(Array)
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1460): Cake\ORM\Table->_insert(Object(App\Model\Entity\Asignatura), Array)
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1391): Cake\ORM\Table->_processSave(Object(App\Model\Entity\Asignatura), Object(ArrayObject))
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Connection.php(559): Cake\ORM\Table->Cake\ORM\{closure}(Object(Cake\Database\Connection))
+#5 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1392): Cake\Database\Connection->transactional(Object(Closure))
+#6 C:\xampp\htdocs\cakephpApp\src\Controller\AsignaturaController.php(54): Cake\ORM\Table->save(Object(App\Model\Entity\Asignatura))
+#7 [internal function]: App\Controller\AsignaturaController->add()
+#8 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#9 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#10 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AsignaturaController))
+#11 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#12 {main}
+
+
+2016-04-19 08:54:35 Error: [InvalidArgumentException] Unknown type ""
+Request URL: /cakephpApp/asignatura/add
+Referer URL: http://127.0.0.1/cakephpApp/asignatura/add
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1580): Cake\Database\Type::build(NULL)
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1513): Cake\ORM\Table->_newId(Array)
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1460): Cake\ORM\Table->_insert(Object(App\Model\Entity\Asignatura), Array)
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1391): Cake\ORM\Table->_processSave(Object(App\Model\Entity\Asignatura), Object(ArrayObject))
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Connection.php(559): Cake\ORM\Table->Cake\ORM\{closure}(Object(Cake\Database\Connection))
+#5 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1392): Cake\Database\Connection->transactional(Object(Closure))
+#6 C:\xampp\htdocs\cakephpApp\src\Controller\AsignaturaController.php(54): Cake\ORM\Table->save(Object(App\Model\Entity\Asignatura))
+#7 [internal function]: App\Controller\AsignaturaController->add()
+#8 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#9 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#10 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AsignaturaController))
+#11 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#12 {main}
+
+
+2016-04-19 08:55:03 Error: [InvalidArgumentException] Unknown type ""
+Request URL: /cakephpApp/asignatura/add
+Referer URL: http://127.0.0.1/cakephpApp/asignatura/add
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1580): Cake\Database\Type::build(NULL)
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1513): Cake\ORM\Table->_newId(Array)
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1460): Cake\ORM\Table->_insert(Object(App\Model\Entity\Asignatura), Array)
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1391): Cake\ORM\Table->_processSave(Object(App\Model\Entity\Asignatura), Object(ArrayObject))
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Connection.php(559): Cake\ORM\Table->Cake\ORM\{closure}(Object(Cake\Database\Connection))
+#5 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(1392): Cake\Database\Connection->transactional(Object(Closure))
+#6 C:\xampp\htdocs\cakephpApp\src\Controller\AsignaturaController.php(54): Cake\ORM\Table->save(Object(App\Model\Entity\Asignatura))
+#7 [internal function]: App\Controller\AsignaturaController->add()
+#8 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#9 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#10 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AsignaturaController))
+#11 C:\xampp\htdocs\cakephpApp\webroot\index.php(36): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#12 {main}
+
+

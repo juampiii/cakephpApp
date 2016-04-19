@@ -1,0 +1,44 @@
+2016-04-18 09:55:57 Error: [Cake\Database\Exception] SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'titulaci?n', Array, Object(Cake\Database\Schema\Table))
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(64): Cake\Database\Schema\Collection->describe('titulaci?n', Array)
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(429): Cake\Database\Schema\CachedCollection->describe('titulaci?n')
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(505): Cake\ORM\Table->schema()
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(206): Cake\ORM\Table->primaryKey()
+#5 C:\xampp\htdocs\cakephpApp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(124): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#6 C:\xampp\htdocs\cakephpApp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(109): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'titulaci?n', 'Titulaci\xF3n')
+#7 C:\xampp\htdocs\cakephpApp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('Titulaci\xF3n')
+#8 C:\xampp\htdocs\cakephpApp\vendor\cakephp\bake\src\Shell\BakeShell.php(250): Bake\Shell\Task\ModelTask->main('Titulaci\xF3n')
+#9 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Collection\CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('Titulaci\xF3n', 0)
+#10 C:\xampp\htdocs\cakephpApp\vendor\cakephp\bake\src\Shell\BakeShell.php(253): Cake\Collection\Collection->each(Object(Closure))
+#11 [internal function]: Bake\Shell\BakeShell->all('titulaci\xF3n')
+#12 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Console\Shell.php(444): call_user_func_array(Array, Array)
+#13 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(217): Cake\Console\Shell->runCommand(Array, true, Array)
+#14 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#15 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#16 C:\xampp\htdocs\cakephpApp\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#17 {main}
+
+
+2016-04-18 09:56:02 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cakephpapp.titulacion' doesn't exist
+Stack Trace:
+#0 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'titulacion', Array, Object(Cake\Database\Schema\Table))
+#1 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(64): Cake\Database\Schema\Collection->describe('titulacion', Array)
+#2 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(429): Cake\Database\Schema\CachedCollection->describe('titulacion')
+#3 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\ORM\Table.php(505): Cake\ORM\Table->schema()
+#4 C:\xampp\htdocs\cakephpApp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(206): Cake\ORM\Table->primaryKey()
+#5 C:\xampp\htdocs\cakephpApp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(124): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#6 C:\xampp\htdocs\cakephpApp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(109): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'titulacion', 'Titulacion')
+#7 C:\xampp\htdocs\cakephpApp\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('Titulacion')
+#8 C:\xampp\htdocs\cakephpApp\vendor\cakephp\bake\src\Shell\BakeShell.php(250): Bake\Shell\Task\ModelTask->main('Titulacion')
+#9 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Collection\CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('Titulacion', 0)
+#10 C:\xampp\htdocs\cakephpApp\vendor\cakephp\bake\src\Shell\BakeShell.php(253): Cake\Collection\Collection->each(Object(Closure))
+#11 [internal function]: Bake\Shell\BakeShell->all('titulacion')
+#12 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Console\Shell.php(444): call_user_func_array(Array, Array)
+#13 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(217): Cake\Console\Shell->runCommand(Array, true, Array)
+#14 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#15 C:\xampp\htdocs\cakephpApp\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#16 C:\xampp\htdocs\cakephpApp\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#17 {main}
+
+
